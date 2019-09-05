@@ -96,7 +96,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/ezequieldhonatan/laravel-multi-tenancy-single-database-subdominio">GitHub</a>
+                    <a href="https://github.com/ezequieldhonatan/laravel-multi-tenancy-single-database-subdomain">GitHub</a>
                     <a href="https://www.linkedin.com/in/ezequieldhonatan/">LinkedIn</a>
                 </div>
 
