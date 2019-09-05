@@ -14,7 +14,7 @@ Levando em consideração que você tenha o <code> PHP >= 7.2.0 </code> e <code>
 Vou considerar que você esteja rodando um sistema operacional Linux/Windows e com o git instalado, faça o seguinte:
 
 <strong> Clone o projeto</strong> <br>
-<code>  git clone https://github.com/ezequieldhonatan/laravel-multi-tenancy-single-database-subdominio  </code> 
+<code>  git clone https://github.com/ezequieldhonatan/laravel-multi-tenancy-single-database-subdomain  </code> 
 <br>
 
 <strong> Instale as dependências e o framework</strong>
