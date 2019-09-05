@@ -2,8 +2,6 @@
 
 Sistema com múltiplos clientes, todos na mesma aplicação, no mesmo database (banco de dados). Desta vez, separando os registros por subdomínios.
 
-<br>
-
 # 
 
 Algumas pastas estão ignoradas pelo .gitignore.
