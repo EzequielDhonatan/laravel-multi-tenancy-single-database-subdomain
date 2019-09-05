@@ -1,8 +1,10 @@
-# LARAVEL MULTI-TENANCY SINGLE DATABASE (SUBDOMÍNIO
+# LARAVEL MULTI-TENANCY SINGLE DATABASE (SUBDOMÍNIO)
 
 Sistema com múltiplos clientes, todos na mesma aplicação, no mesmo database (banco de dados). Desta vez, separando os registros por subdomínios.
 
-<br> <br>
+<br>
+
+# 
 
 Algumas pastas estão ignoradas pelo .gitignore.
 
